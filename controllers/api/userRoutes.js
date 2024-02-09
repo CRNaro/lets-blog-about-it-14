@@ -1,0 +1,1 @@
+// This file is used as the way for new users to register, login, logout, view user profile, update user profile and delete users account
